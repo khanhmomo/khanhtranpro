@@ -40,9 +40,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                       !open
                         ? theme === "dark"
                           ? "menu-white.svg"
-                          : "menu-white.svg"
+                          : "menu.svg"
                         : theme === "light"
-                        ? "cancel-white.svg"
+                        ? "cancel.svg"
                         : "cancel-white.svg"
                     }`}
                   ></img>
