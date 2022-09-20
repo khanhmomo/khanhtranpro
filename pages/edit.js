@@ -152,9 +152,7 @@ const Edit = () => {
       <Cursor />
       <div className="mt-10">
         <div
-          className={`${
-            theme === "dark" ? "bg-transparent" : "bg-transparent"
-          }`}
+          className={`bg-transparent`}
         >
           <div className="flex items-center justify-between">
             <h1 className="text-4xl">Dashboard</h1>
