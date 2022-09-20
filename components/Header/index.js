@@ -31,7 +31,20 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </h1>
 
               <div className="flex items-center">
-                
+                {data.darkMode && (
+                  <Button
+                    onClick={() =>
+                      setTheme(theme === "dark" ? "light" : "dark")
+                    }
+                  >
+                    <img
+                      className="h-6"
+                      src={`/images/${
+                        theme === "dark" ? "moon.svg" : "sun.svg"
+                      }`}
+                    ></img>
+                  </Button>
+                )}
 
                 <Popover.Button>
                   <img
@@ -50,7 +63,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </div>
             </div>
             <Popover.Panel
-              className={`absolute right-0 z-10 w-11/12 p-4 bg-slate-800 shadow-md rounded-md`}
+              className={`absolute right-0 z-10 w-11/12 p-4 ${
+                theme === "dark" ? "bg-slate-800" : "bg-white"
+              } shadow-md rounded-md`}
             >
               {!isBlog ? (
                 <div className="grid grid-cols-1">
@@ -65,7 +80,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                       classes="first:ml-1"
                     >
                       Resume
-                  </Button>
+                    </Button>
                   )}
 
                   <Button
@@ -132,7 +147,16 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             <Button onClick={() => window.open("mailto:ankhanhct@gmail.com")}>
               Contact
             </Button>
-            
+            {mounted && theme && data.darkMode && (
+              <Button
+                onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+              >
+                <img
+                  className="h-6"
+                  src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
+                ></img>
+              </Button>
+            )}
           </div>
         ) : (
           <div className="flex">
@@ -153,7 +177,16 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               Contact
             </Button>
 
-            
+            {mounted && theme && data.darkMode && (
+              <Button
+                onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+              >
+                <img
+                  className="h-6"
+                  src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
+                ></img>
+              </Button>
+            )}
           </div>
         )}
       </div>
