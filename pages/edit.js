@@ -153,7 +153,7 @@ const Edit = () => {
       <div className="mt-10">
         <div
           className={`${
-            theme === "dark" ? "bg-transparent" : "bg-white"
+            theme === "dark" ? "bg-transparent" : "bg-transparent"
           }`}
         >
           <div className="flex items-center justify-between">
