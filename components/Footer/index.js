@@ -16,7 +16,7 @@ const Footer = ({}) => {
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
               TOGETHER
             </h1>
-            <Button type="primary">Schedule a call</Button>
+            
             <div className="mt-10">
               <Socials />
             </div>
@@ -24,9 +24,9 @@ const Footer = ({}) => {
         </div>
       </div>
       <h1 className="text-sm text-bold mt-2 laptop:mt-10 p-2 laptop:p-0">
-        Made With ❤ by{" "}
-        <Link href="http://www.chetanverma.com">
-          <a className="underline underline-offset-1">Chetan Verma</a>
+        Made by{" "}
+        <Link href="https://www.facebook.com/sheet.hoolee.752/">
+          <a className="underline underline-offset-1">Khanh Tran</a>
         </Link>
       </h1>
     </>
