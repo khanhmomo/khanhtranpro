@@ -34,7 +34,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 {data.darkMode && (
                   <Button
                     onClick={() =>
-                      setTheme(theme === "dark" ? "dark" : "dark")
+                      setTheme(theme === "dark" ? "light" : "dark")
                     }
                   >
                     <img
@@ -53,9 +53,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                       !open
                         ? theme === "dark"
                           ? "menu-white.svg"
-                          : "menu.svg"
+                          : "menu-white.svg"
                         : theme === "light"
-                        ? "cancel.svg"
+                        ? "cancel-white.svg"
                         : "cancel-white.svg"
                     }`}
                   ></img>
@@ -150,7 +150,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             {mounted && theme && data.darkMode && (
               <Button
                 onClick={() =>
-                  setTheme(theme === "dark" ? "dark" : "dark")
+                  setTheme(theme === "dark" ? "light" : "dark")
                 }
               >
                 <img
