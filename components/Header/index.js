@@ -34,7 +34,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 {data.darkMode && (
                   <Button
                     onClick={() =>
-                      setTheme(theme === "dark" ? "light" : "dark")
+                      setTheme(theme === "dark" ? "dark" : "dark")
                     }
                   >
                     <img
@@ -149,11 +149,15 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             </Button>
             {mounted && theme && data.darkMode && (
               <Button
-                onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+                onClick={() =>
+                  setTheme(theme === "dark" ? "dark" : "dark")
+                }
               >
                 <img
                   className="h-6"
-                  src={`/images/${theme === "dark" ? "moon.svg" : "sun.svg"}`}
+                  src={`/images/${
+                    theme === "dark" ? "moon.svg" : "sun.svg"
+                  }`}
                 ></img>
               </Button>
             )}
