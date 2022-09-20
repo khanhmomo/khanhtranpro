@@ -64,7 +64,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             </div>
             <Popover.Panel
               className={`absolute right-0 z-10 w-11/12 p-4 ${
-                theme === "dark" ? "bg-slate-800" : "bg-white"
+                theme === "dark" ? "bg-slate-800" : "bg-slate-800"
               } shadow-md rounded-md`}
             >
               {!isBlog ? (
