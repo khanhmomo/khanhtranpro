@@ -1,1 +1,149 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+    "name":"khanhtran production",
+    "headerTaglineOne":"Hello 👋",
+    "headerTaglineTwo":"I'm Khanh Tran - curious",
+    "headerTaglineThree":"developer and designer",
+    "headerTaglineFour":" based in Texas, US.",
+    "showBlog":true,
+    "darkMode":true,
+    "showResume":true,
+    "socials":[
+        {
+            "id":"1",
+            "title":"Github",
+            "link":"https://github.com/khanhmomo"
+        },
+        {
+            "id":"2",
+            "title":"LinkedIn",
+            "link":"https://www.linkedin.com/in/khanh-tran-9a60011b9/"
+        },
+        {
+            "id":"3",
+            "title":"Instagram",
+            "link":"https://www.instagram.com/khanhmomo/"
+        },
+        {
+            "id":"4",
+            "title":"Facebook",
+            "link":"https://www.facebook.com/sheet.hoolee.752/"
+        },
+        {
+            "id":"5",
+            "title":"Email",
+            "link":"mailto:ankhanhct@gmail.com"
+        }
+    ],
+    "projects":[
+        {
+            "id":"1",
+            "title":"UCare Platform",
+            "description":"Tech Solution",
+            "imageSrc":"https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "url":"https://www.google.com/search?q=Tr%E1%BA%A7n+An+Kh%C3%A1nh&sxsrf=ALiCzsalZUf2VeB3koMj0X5dU9GJLA72hg:1663646791077&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiz2o2gv6L6AhUfl2oFHaufDKwQ_AUoA3oECAEQBQ&biw=1871&bih=1009&dpr=1#imgrc=c0SIji1tytMddM"
+        },
+        {
+            "id":"2",
+            "title":"Ducky Rescue",
+            "description":"Tech Solution",
+            "imageSrc":"https://images.unsplash.com/photo-1546776310-eef45dd6d63c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=810&q=80",
+            "url":""
+        },
+        {
+            "id":"3",
+            "title":"Covid Monitor",
+            "description":"Tech Solution",
+            "imageSrc":"https://images.unsplash.com/photo-1623701197215-3fe8e52f618e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80",
+            "url":"https://github.com/khanhmomo/covid_monitor"
+        },{
+            "id":"4",
+            "title":"Recap for WSSD 2021",
+            "description":"Marketing",
+            "imageSrc":"https://static.wixstatic.com/media/e6a889_fa3bc40cd7bb42a0a3748d1fae36ee05~mv2.jpg/v1/crop/x_0,y_46,w_6000,h_3283/fill/w_732,h_400,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/DSC04587_JPG.jpg",
+            "url":"https://video.wixstatic.com/video/e6a889_67ee58b1ae4248f9b71814891b1aea82/1080p/mp4/file.mp4"
+        }
+    ],
+    "services":[
+        {
+            "id":"1","title":"Web Design",
+            "description":"Build and optimize your online presence. Website is the digital entry point into your business and a powerful revenue channel."
+        },
+        {
+            "id":"2",
+            "title":"IoT Research and Development",
+            "description":"Robot, smart device, school project,... all you need is a smart solution."
+        },
+        {
+            "id":"3",
+            "title":"Branding",
+            "description":"Design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        },
+        {
+            "id":"4",
+            "title":"Photography and Videography",
+            "description":"Making beautiful images and videos for multi-purpose (brand, individual,...)."
+        }
+        
+    ],
+    "aboutpara":"Design and development are two things that always go together, helping your products and projects go further. I - KhanhTran Production - an university student in the US with 9 years of experience in development and 4 years of experience in design will help you solve problems thoroughly.",
+    "resume":{
+        "tagline":"I'm a software engineer, product designer.",
+        "description":"An university student in the US with 9 years of experience in development and 4 years of experience in design",
+        "experiences":[
+            {
+                "id":"1",
+                "dates":"September 2022 - Present",
+                "type":"Part Time",
+                "position":"Helpdesk Responser at UHV IT Office",
+                "bullets":"Update later"
+            },
+            {
+                "id":"2",
+                "dates":"November 2021 - January 2022",
+                "type":"Full Time",
+                "position":"Full-stack Developer at Emolyze Tech",
+                "bullets":"Worked on the frontend of SDConnect.VN, Worked on the backend of SDConnect.VN"
+            },
+            {
+                "id":"3",
+                "dates":"August 2020 - Present",
+                "type":"Part Time",
+                "position":"Photographer/Videographer at RECORD PRODUCTION",
+                "bullets":"Videographer at WSSD, Videographer at VSSD, Cam-OP at RitaVo project"
+            },
+            {
+                "id":"4",
+                "dates":"January 2017 - May 2017",
+                "type":"Internship",
+                "position":"IoT RnD at Konel - Japan",
+                "bullets":"Project leader, Hardware Developer"
+            }
+        ],
+        "education": [
+            {
+                "id": "1",
+                "position":"University of Houston - Victoria",
+                "dates":"2022-Present",
+                "type": "Victoria, Texas, United State",
+                "bullets":"Bachelor of Computer Science"
+            },
+            {
+                "id": "2",
+                "position":"University of Science - VNUHCM",
+                "dates":"2021-2022",
+                "type": "Ho Chi Minh City, Vietnam",
+                "bullets":"Bachelor of Data Science"
+            },
+            {
+                "id": "2",
+                "position":"Ly Tu Trong Highchool for the Gifted",
+                "dates":"2018-2021",
+                "type": "Can Tho City, Vietnam",
+                "bullets":"Information Technology"
+            }
+        ],
+            "languages":["Javascript","HTML5","CSS", "Python"],
+                "frameworks":["React","Typescript","NodeJs", "Tailwind"],
+                "others":["Figma","Adobe","AWS"]
+            }
+}
